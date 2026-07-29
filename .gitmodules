@@ -1,0 +1,3 @@
+[submodule "games/zork1/source/zork1"]
+	path = games/zork1/source/zork1
+	url = https://github.com/historicalsource/zork1.git

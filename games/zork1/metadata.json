@@ -1,0 +1,6 @@
+{
+  "title": "Zork I: The Great Underground Empire",
+  "engine": "zmachine",
+  "interpreter": "frotz",
+  "game_file": "zork1.z3"
+}
